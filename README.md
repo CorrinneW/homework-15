@@ -15,4 +15,4 @@ A simple but personalized site that is as much a part of my portfolio as the pro
 
 https://corrinnew.github.io/professional-portfolio/
 
-![screen-record.gif](https://github.com/CorrinneW/professional-portfolio/blob/main/assets/images/screen-record.gif)
+![screen-record.gif](https://github.com/CorrinneW/updated-professional-portfolio/blob/main/assets/images/screen-record.gif)
